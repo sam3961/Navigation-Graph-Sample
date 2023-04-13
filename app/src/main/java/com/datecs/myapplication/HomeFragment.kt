@@ -1,5 +1,6 @@
 package com.datecs.myapplication
 
+import android.net.Uri
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -34,7 +35,8 @@ class HomeFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         binding.imageViewProfile.setOnClickListener {
-            findNavController().navigate(R.id.action_HomeFragment_to_ProfileFragment)
+           findNavController().navigate(R.id.action_HomeFragment_to_ProfileFragment)
+
         }
     }
 

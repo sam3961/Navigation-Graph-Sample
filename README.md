@@ -1,6 +1,8 @@
 **Whats in this project**
-- This project contains five screens (Splash, Login, Signup, Home and Profile)
+- This project contains six screens (Splash, Login, Signup, Home and Profile and WebView)
 - This project use Navigation Component structure and shows how to navigate between two navigation graphs(From Auth to Home and Home to Auth) and usage of popupTo and inclusive in project.
+- This project also contains Navigation major Component *Deep Linking* like for opening webview from any of the screen of graph we are using Implicit deep linking from profile screen
+- This project also contains Local Push Notification to show example of Explicit Deep Linking of Navigation component in profile screen.
 
 
 **More Information about Navigation Component**
@@ -29,7 +31,7 @@ The “Navigation Component” simplifies implementing navigation, while also he
 
 First, clone the repo:
 
-* git clone https://github.com/ezeep/ezp-printerapp-hp-workpath.git
+* git clone https://
 * Building the Navigation Graph Example app then depends on your build tools.
 
 

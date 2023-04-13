@@ -7,6 +7,7 @@
     <string name="signup_fragment_label">Signup Fragment</string>
     <string name="profile_fragment_label">Profile Fragment</string>
     <string name="home_fragment_label">Home Fragment</string>
+    <string name="web_fragment_label">Webview Fragment</string>
     <string name="home_activity_label">Home Activity</string>
     <string name="next">Next</string>
     <string name="logout">Logout</string>
@@ -23,4 +24,9 @@
     <string name="enter_email">Enter Email</string>
     <string name="enter_password">Enter Password</string>
     <string name="enter_confirm_password">Enter confirm Password</string>
+    <string name="webview">Webview</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_and_condition">Terms and Condition</string>
+    <string name="turn_on_notification">Turn On Notification</string>
+    <string name="hello">Hello</string>
 </resources>
