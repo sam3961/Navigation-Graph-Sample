@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Navigation Graph Sample</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="splash_fragment_label">Splash Fragment</string>
+    <string name="login_fragment_label">Login Fragment</string>
+    <string name="signup_fragment_label">Signup Fragment</string>
+    <string name="profile_fragment_label">Profile Fragment</string>
+    <string name="home_fragment_label">Home Fragment</string>
+    <string name="home_activity_label">Home Activity</string>
+    <string name="next">Next</string>
+    <string name="logout">Logout</string>
+    <string name="previous">Previous</string>
+    <string name="profile">Profile</string>
+
+    <string name="hello_first_fragment">Hello splash fragment</string>
+    <string name="hello_profile_fragment">Hello Profile fragment</string>
+    <string name="hello_home_fragment">Hello Home fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_confirm_password">Enter confirm Password</string>
+</resources>
